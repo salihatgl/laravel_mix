@@ -1,0 +1,1 @@
+document.write("dünya");
